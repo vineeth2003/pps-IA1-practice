@@ -20,7 +20,7 @@ float my_sqrt(float n)
 }
 void output(float n, float sres)
 {
-  printf("square root of given input %0.2f is  %0.2f\n", n, sres);
+  printf("square root of given input %0.2f is %0.2f\n", n, sres);
 }
 int main()
 {
